@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# htmlcoin-opcodes-js
+The HTMLCOIN opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install htmlcoin-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('htmlcoin-opcodes')
 ```
