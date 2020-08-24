@@ -14,7 +14,7 @@
     "htmlcoin",
     "opcodes"
   ],
-  "author": "Qtum Weiyu",
+  "author": "Qtum Weiyu, Leandro Machado",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/HTMLCOIN/htmlcoin-opcodes-js/issues"
