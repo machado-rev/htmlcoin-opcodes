@@ -1,5 +1,5 @@
 {
-  "name": "@machado-rev/htmlcoin-opcodes",
+  "name": "htmlcoin-opcodes",
   "version": "1.0.1",
   "description": "The HTMLCOIN opcodes map",
   "main": "./index.json",
